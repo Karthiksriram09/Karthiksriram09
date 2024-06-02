@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 align="center">Hi 👋, I'm Karthik Sriram</h1>
 <h3 align="center">I'm a student at KL University currently exploring the world of coding and software development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"
 
