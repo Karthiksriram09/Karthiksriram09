@@ -18,7 +18,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 Final Year B.Tech CSE @ KL University (8.51 CGPA)
+- 🎓 Final Year B.Tech CSE @ KL University (8.62 CGPA)
 - 🛠 Currently working on:  
   - Conversational German Tutor (Streamlit + Transformers)  
   - Resume & SOP Analyzer (FastAPI + HuggingFace)  
@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://twitter.com/karthiksriram_1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" /></a>
-  <a href="https://linkedin.com/in/karthik-sriram-57b49a28b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/kudalikarthiksriram/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" /></a>
   <a href="https://instagram.com/x_.karthik._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square" /></a>
   <a href="https://www.codechef.com/users/klu2200033115" target="_blank"><img src="https://img.shields.io/badge/CodeChef-FF6000?logo=codechef&style=flat-square" /></a>
   <a href="https://www.hackerrank.com/h2200033115" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=flat-square" /></a>
