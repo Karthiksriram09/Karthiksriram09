@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![MasterHead](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Kudali Karthik Sriram</h1>
 <h3 align="center">Final Year B.Tech CSE @ KL University | Exploring AI, Cloud, and Startup Building 🚀</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" alt="Funny Coding GIF" width="400" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=karthiksriram09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -31,10 +31,28 @@
 
 ---
 
+### 🏅 Certifications
+
+- 🧠 **AI-900: AI Fundamentals (Microsoft Certified AI Associate)**  
+- 🦅 **Oracle One Java Foundations**  
+- 🔐 **Red Hat Linux Essentials**  
+- ☁️ **Salesforce Trailhead Admin Beginner**
+
+---
+
 ### 📂 Portfolio & Projects
 
 - 🔗 [Portfolio Website](https://karthiksriram09.github.io/Karthik-Portfolio/)
 - 🔗 [Blogging Platform (Codsoft Task)](https://karthiksriram09.github.io/Codsoft-Level-1-Task-2/)
+
+---
+
+### 📌 Pinned Repositories
+
+[![German AI Tutor](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=german-ai-tutor)](https://github.com/karthiksriram09/german-ai-tutor)
+[![Real-Time ECG Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=ECG-Monitoring-Simulation)](https://github.com/karthiksriram09/ECG-Monitoring-Simulation)
+[![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=Resume-SOP-Analyzer)](https://github.com/karthiksriram09/Resume-SOP-Analyzer)
+[![C-Master Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=C-Master-Toolkit)](https://github.com/karthiksriram09/C-Master-Toolkit)
 
 ---
 
@@ -88,4 +106,11 @@
 
 ---
 
-_“Code with curiosity, build with passion, and never stop learning.”_
+### 📈 Contribution Graph
+
+[![Karthik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthiksriram09&theme=github-compact)](https://github.com/karthiksriram09)
+
+---
+
+_“Code with curiosity, build with passion, and never stop learning.”_  
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" />
