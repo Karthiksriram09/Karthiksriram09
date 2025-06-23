@@ -1,4 +1,6 @@
-![MasterHead](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Kudali Karthik Sriram</h1>
 <h3 align="center">Final Year B.Tech CSE @ KL University | Exploring AI, Cloud, and Startup Building 🚀</h3>
