@@ -1,118 +1,179 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" />
-</div>
+# Karthik Sriram
 
-<h1 align="center">Hi 👋, I'm Kudali Karthik Sriram</h1>
-<h3 align="center">Final Year B.Tech CSE @ KL University | Exploring AI, Cloud, and Startup Building 🚀</h3>
-
-<img align="right" alt="Funny Coding GIF" width="400" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karthiksriram09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/karthiksriram_1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/karthiksriram_1?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+**AI/ML Engineer & Full-Stack Developer** | Final Year B.Tech CSE (KL University) | Building Scalable AI Systems
 
 ---
 
-### 💻 About Me
-- 🎓 Final Year B.Tech CSE @ KL University (8.62 CGPA)
-- 🛠 Currently working on:  
-  - Conversational German Tutor (Streamlit + Transformers)  
-  - Resume & SOP Analyzer (FastAPI + HuggingFace)  
-  - Real-Time ECG Monitoring (AWS Simulated)  
-  - Blogging CMS & C-Master Toolkit CLI
-- 🌱 Learning: **AI**, **React**, **MongoDB**, **Cloud**, **German**
-- 💡 Interests: Product Building, ML Projects, Freelancing
-- 🎯 Goals: Build a unicorn startup | Study MS in Germany (Winter 2026)
-- 📫 Reach me at: **karthiksriram009@gmail.com**
+## 🎯 Professional Overview
+
+Final-year Computer Science student specializing in **AI, Machine Learning, and Full-Stack Development**. Passionate about building scalable systems that solve real-world problems. Strong foundation in applied ML, cloud architecture, and product development. Currently preparing for **MS in Computer Science (Germany, Winter 2026)** while developing production-grade AI applications.
+
+**Key Metrics:**
+- GPA: 8.62/10.0
+- 4+ Industry-Grade AI/ML Projects
+- AI-900 Certified (Microsoft)
+- Active Open Source Contributor
 
 ---
 
-### 🏅 Certifications
+## 💼 Current Projects
 
-- 🧠 **AI-900: AI Fundamentals (Microsoft Certified AI Associate)**  
-- 🦅 **Oracle One Java Foundations**  
-- 🔐 **Red Hat Linux Essentials**  
-- ☁️ **Salesforce Trailhead Admin Beginner**
+### 🚀 **HireByte** – AI-Powered Job Distribution Platform
+**Tech Stack:** Python, NLP, MongoDB, Telegram/WhatsApp APIs
 
----
+Automated daily software job newsletter aggregating remote positions, internships, and fresher roles (₹10LPA+) across India.
 
-### 📂 Portfolio & Projects
+**Key Features:**
+- Real-time job scraping & NLP-based categorization
+- Multi-platform delivery (WhatsApp, Telegram, LinkedIn)
+- Premium monetization model (paid job listings)
+- 500+ active subscribers (growing)
 
-- 🔗 [Portfolio Website](https://karthiksriram09.github.io/Karthik-Portfolio/)
-- 🔗 [Blogging Platform (Codsoft Task)](https://karthiksriram09.github.io/Codsoft-Level-1-Task-2/)
-
----
-
-### 📌 Pinned Repositories
-
-[![German AI Tutor](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=german-ai-tutor)](https://github.com/karthiksriram09/german-ai-tutor)
-[![Real-Time ECG Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=ECG-Monitoring-Simulation)](https://github.com/karthiksriram09/ECG-Monitoring-Simulation)
-[![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=Resume-SOP-Analyzer)](https://github.com/karthiksriram09/Resume-SOP-Analyzer)
-[![C-Master Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=karthiksriram09&repo=C-Master-Toolkit)](https://github.com/karthiksriram09/C-Master-Toolkit)
+**Impact:** Reduces job search friction for early-career developers in India
 
 ---
 
-### 🌐 Connect with Me
+### 🤖 **Conversational German Tutor** – Interactive Language Learning
+**Tech Stack:** Streamlit, Transformers (HuggingFace), PyTorch, Text-to-Speech APIs
 
-<p align="left">
-  <a href="https://twitter.com/karthiksriram_1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/kudalikarthiksriram/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" /></a>
-  <a href="https://instagram.com/x_.karthik._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square" /></a>
-  <a href="https://www.codechef.com/users/klu2200033115" target="_blank"><img src="https://img.shields.io/badge/CodeChef-FF6000?logo=codechef&style=flat-square" /></a>
-  <a href="https://www.hackerrank.com/h2200033115" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=flat-square" /></a>
-  <a href="https://leetcode.com/karthiksriram009" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FE7A16?logo=leetcode&style=flat-square" /></a>
-</p>
+Personalized German learning platform with integrated SRS (Spaced Repetition System), voice-based input/output, and context-aware conversation.
 
----
+**Key Features:**
+- Real-time pronunciation feedback
+- Adaptive difficulty (A1 → C1)
+- Flashcard-based SRS system
+- Conversational practice with AI feedback
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
+**Link:** [GitHub Repository](https://github.com/karthiksriram09/german-ai-tutor)
 
 ---
 
-### 📊 GitHub Stats
+### 📄 **Resume & SOP Analyzer** – AI-Powered Career Documents Optimizer
+**Tech Stack:** FastAPI, HuggingFace Transformers, BERT
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiksriram09&show_icons=true&locale=en" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksriram09" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksriram09&layout=compact" />
-</p>
+Intelligent system analyzing resumes and SOPs against job descriptions, providing actionable feedback for improvement.
 
----
+**Key Features:**
+- ATS compatibility scoring
+- Skill-gap analysis
+- BERT-based semantic matching
+- Real-time suggestions for optimization
 
-### 📈 Contribution Graph
-
-[![Karthik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthiksriram09&theme=github-compact)](https://github.com/karthiksriram09)
+**Link:** [GitHub Repository](https://github.com/karthiksriram09/Resume-SOP-Analyzer)
 
 ---
 
-_“Code with curiosity, build with passion, and never stop learning.”_  
-<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" />
+### 📊 **Real-Time ECG Monitoring System** – Cloud-Based Health Analytics
+**Tech Stack:** AWS (EC2, S3, Lambda), Python, Real-time Processing
+
+Simulated IoT-based ECG monitoring system demonstrating cloud architecture, real-time data processing, and anomaly detection.
+
+**Key Features:**
+- Real-time data ingestion & processing
+- Anomaly detection using statistical methods
+- Scalable cloud infrastructure (AWS)
+- Dashboard visualization
+
+**Link:** [GitHub Repository](https://github.com/karthiksriram09/ECG-Monitoring-Simulation)
+
+---
+
+### 🛠️ **C-Master Toolkit** – Advanced Data Structures & Algorithms CLI
+**Tech Stack:** C, File I/O, Advanced Algorithms
+
+Comprehensive CLI toolkit for learning and implementing data structures, algorithms, and problem-solving patterns.
+
+**Features:**
+- 50+ Data Structure implementations
+- Algorithm visualizations
+- Problem-solving templates
+- Educational focus for competitive programming
+
+**Link:** [GitHub Repository](https://github.com/karthiksriram09/C-Master-Toolkit)
+
+---
+
+## 🔧 Technical Stack
+
+### **Languages**
+- **Primary:** Python, JavaScript, C
+- **Data Science:** SQL, NumPy, Pandas, Scikit-learn
+- **Production ML:** PyTorch, TensorFlow, HuggingFace Transformers
+
+### **Frameworks & Tools**
+- **Backend:** FastAPI, Flask, Node.js/Express
+- **Frontend:** React.js, HTML5, CSS3
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Linux, Docker (beginner)
+- **ML/AI:** Transformers, BERT, Transfer Learning, NLP
+
+### **Development Tools**
+- PyCharm Community Edition, VS Code
+- Git, GitHub, CLI
+- Jupyter Notebooks for experimentation
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech in Computer Science (AI & Intelligent Process Automation)**  
+KL University, Vijayawada | Expected: June 2025  
+GPA: 8.62/10.0
+
+**Professional Certifications:**
+- ✅ **AI-900: AI Fundamentals** – Microsoft Certified Associate
+- ✅ **Oracle One Java Foundations**
+- ✅ **Red Hat Linux Essentials**
+- ✅ **Salesforce Trailhead Admin Beginner**
+
+---
+
+## 📈 Growth & Learning Path
+
+### **Current Focus**
+- Advanced NLP & Transformers
+- Full-stack ML systems (data → inference → deployment)
+- Cloud architecture for scalability
+- Research publication (HireSense Pro paper – in progress)
+
+### **Target Competencies for MS**
+- Advanced ML & Deep Learning theory
+- System Design & Architecture
+- Research methodology & academic writing
+- Data structures & algorithms excellence
+
+---
+
+## 🔗 Connect & Explore
+
+| Platform | Profile |
+|----------|---------|
+| **LinkedIn** | [Kudali Karthik Sriram](https://www.linkedin.com/in/kudalikarthiksriram/) |
+| **Twitter** | [@karthiksriram_1](https://twitter.com/karthiksriram_1) |
+| **Portfolio** | [karthiksriram09.github.io](https://karthiksriram09.github.io/Karthik-Portfolio/) |
+| **Email** | karthiksriram009@gmail.com |
+| **GitHub** | [karthiksriram09](https://github.com/karthiksriram09) |
+| **CodeChef** | [karthiksriram09](https://www.codechef.com/users/klu2200033115) |
+| **LeetCode** | [karthiksriram009](https://leetcode.com/karthiksriram009) |
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiksriram09&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthiksriram09&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksriram09&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 💡 Philosophy
+
+> *Build systems that scale. Learn deeply. Create impact. Never stop iterating.*
+
+I believe in **practical intelligence** – combining theoretical knowledge with hands-on execution. My goal is to build products that solve real problems while continuously pushing the boundaries of what I can learn and achieve.
+
+---
+
+**Last Updated:** May 2025 | Looking for MS Opportunities in Germany & AI/ML Research Roles
