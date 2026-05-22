@@ -1,4 +1,4 @@
-# KARTHIK SRIRAM
+# Karthik Sriram
 
 **AI/ML Engineer & Full-Stack Developer** | B.Tech CSE (KL University) ✓ | Building Scalable AI Systems
 
@@ -206,21 +206,46 @@ KL University, Vijayawada, India | Completed: June 2025
 
 ---
 
-## 📊 GitHub & Contributions
+## 📊 GitHub Analytics & Contributions
 
-**Profile Stats:**
-- **Total Repositories:** 20+
-- **Total Contributions:** 165+ (Sep 2023 - Present)
-- **Longest Streak:** 10 days
-- **Primary Languages:** Python, JavaScript, C
-- **Activity:** Consistent open-source contributions & project development
+<div align="center">
 
-**View Full Stats:** [GitHub Profile](https://github.com/karthiksriram09)
+### GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=karthiksriram09&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
 
-**Competitive Programming:**
-- **CodeChef:** [karthiksriram09](https://www.codechef.com/users/klu2200033115)
-- **LeetCode:** [karthiksriram009](https://leetcode.com/karthiksriram009)
-- **HackerRank:** [h2200033115](https://www.hackerrank.com/h2200033115)
+### Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksriram09&layout=compact&hide_border=true&theme=github_dark)
+
+### Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=karthiksriram09&hide_border=true&theme=dark)
+
+### Activity Graph
+[![Karthik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthiksriram09&theme=github-dark&hide_border=true)](https://github.com/karthiksriram09)
+
+</div>
+
+### 🏆 Competitive Programming & Badges
+
+[![GitHub followers](https://img.shields.io/github/followers/karthiksriram09?style=social)](https://github.com/karthiksriram09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/karthiksriram_1?style=social)](https://twitter.com/karthiksriram_1)
+
+**Competitive Coding Profiles:**
+- [![CodeChef](https://img.shields.io/badge/CodeChef-FF6000?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/klu2200033115)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/karthiksriram009)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/h2200033115)
+
+### 📈 Tech Proficiency
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
