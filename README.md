@@ -1,12 +1,12 @@
-# Karthik Sriram Kudali
+# KARTHIK SRIRAM
 
-**AI/ML Engineer & Full-Stack Developer** | Final Year B.Tech CSE (KL University) | Building Scalable AI Systems
+**AI/ML Engineer & Full-Stack Developer** | B.Tech CSE (KL University) ✓ | Building Scalable AI Systems
 
 ---
 
 ## 🎯 Professional Overview
 
-Final-year Computer Science engineer specializing in **AI, Machine Learning, and Scalable Systems Design**. Focused on building practical AI solutions that drive measurable impact. Strong track record in full-stack development, production ML systems, and product thinking. Currently pursuing **MS in Computer Science (Germany)** while scaling HireByte and advancing research in conversational AI.
+Computer Science engineer (B.Tech completed) specializing in **AI, Machine Learning, and Scalable Systems Design**. Focused on building practical AI solutions that drive measurable impact. Strong track record in full-stack development, production ML systems, and product thinking. Currently pursuing **MS in Computer Science (Germany)** while scaling HireByte and advancing research in conversational AI.
 
 **Key Metrics:**
 - GPA: 8.72/10.0
@@ -157,8 +157,8 @@ Comprehensive learning resource implementing **50+ data structures and algorithm
 
 ## 🎓 Education & Certifications
 
-**B.Tech in Computer Science (AI & Intelligent Process Automation)**  
-KL University, Vijayawada, India | Graduation: June 2025  
+**B.Tech in Computer Science (AI & Intelligent Process Automation)** ✓  
+KL University, Vijayawada, India | Completed: June 2025  
 **GPA: 8.72/10.0** | Relevant Coursework: ML, NLP, Data Mining, Cloud Systems, Advanced Algorithms
 
 **Professional Certifications:**
@@ -206,13 +206,21 @@ KL University, Vijayawada, India | Graduation: June 2025
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiksriram09&show_icons=true&theme=default&hide_border=true)
+**Profile Stats:**
+- **Total Repositories:** 20+
+- **Total Contributions:** 165+ (Sep 2023 - Present)
+- **Longest Streak:** 10 days
+- **Primary Languages:** Python, JavaScript, C
+- **Activity:** Consistent open-source contributions & project development
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthiksriram09&theme=default&hide_border=true)
+**View Full Stats:** [GitHub Profile](https://github.com/karthiksriram09)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksriram09&layout=compact&theme=default&hide_border=true)
+**Competitive Programming:**
+- **CodeChef:** [karthiksriram09](https://www.codechef.com/users/klu2200033115)
+- **LeetCode:** [karthiksriram009](https://leetcode.com/karthiksriram009)
+- **HackerRank:** [h2200033115](https://www.hackerrank.com/h2200033115)
 
 ---
 
